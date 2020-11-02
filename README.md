@@ -1,0 +1,1 @@
+# geonetwork-snig-view
