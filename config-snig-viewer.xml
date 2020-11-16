@@ -22,7 +22,7 @@
             <ows:Title>Ortofotos</ows:Title>
             <ows-context:Server service="urn:ogc:serviceType:WMS">
                 <ows-context:OnlineResource 
-                		xlink:href="http://ows.dgterritorio.pt/wss/service/bluemarble-wm/guest"/>
+                		xlink:href="https://cartografia.dgterritorio.gov.pt/bluemarble-wm/service"/>
             </ows-context:Server>
         </ows-context:Layer>
 	    <ows-context:Layer name="{type=stamen,name=terrain}"
